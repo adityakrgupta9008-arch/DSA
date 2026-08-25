@@ -1,2 +1,2 @@
-//Outer Loop  = Rows
-//Inner Loop  = Columns
+//Outer Loop  = Rows : i 
+//Inner Loop  = Columns : j 
