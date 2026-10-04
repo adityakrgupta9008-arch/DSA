@@ -1,3 +1,5 @@
+//Bubble short means compare first & second than 2 & 3rd so on
+//than compare 1& 2 nd so on continue 
 #include<iostream>
 using namespace std;
 
